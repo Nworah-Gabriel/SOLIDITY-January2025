@@ -1,0 +1,33 @@
+ls - dir (list directory contents in some systems, though typically 'ls' is Unix-based)
+cd - change directory
+pwd - print working directory
+mkdir - make directory
+rm - remove files or directories
+cp - copy files or directories
+mv - move or rename files or directories
+cat - concatenate and display file content
+less - view file content page by page
+more - view file content page by page
+head - display the beginning of a file
+tail - display the end of a file
+grep - search text using patterns
+find - search for files in a directory hierarchy
+chmod - change file permissions
+chown - change file ownership
+ps - display current processes
+top - display system processes in real-time
+kill - terminate a process by ID
+df - display disk space usage
+du - estimate file and directory space usage
+free - display memory usage
+uname - print system information
+whoami - display current user
+man - display manual pages for commands
+echo - display a line of text
+date - display or set the system date and time
+clear - clear the terminal screen
+history - show command history
+sudo - execute a command as a superuser
+apt-get - package handling utility (Debian-based)
+yum - package manager (Red Hat-based)
+systemctl - control the systemd system and service manager
