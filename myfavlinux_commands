@@ -1,0 +1,28 @@
+ ```
+    ls - List directory contents
+    cd - Change directory
+    pwd - Print working directory
+    mkdir - Create directory
+    rmdir - Remove directory
+    rm - Remove files or directories
+    cp - Copy files or directories
+    mv - Move or rename files or directories
+    cat - Concatenate files and print on the standard output
+    less - View file contents one page at a time
+    head - Display the beginning of a file
+    tail - Display the end of a file
+    grep - Search for a pattern in a file
+    find - Find files based on various criteria
+    chmod - Change file permissions
+    chown - Change file owner
+    sudo - Execute a command as the superuser
+    top - Display dynamic real-time view of running processes
+    ps - Display information about running processes
+    kill - Terminate a process
+    df - Display disk space usage
+    du - Estimate file space usage
+    tar - Archive utility
+    gzip - Compression utility
+    wget - Download files from the web
+    ssh - Secure Shell client
+    ```
